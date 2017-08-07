@@ -34,6 +34,8 @@ You may install this theme using NPM or Bower:
 - NPM : `npm install bootstrap-material-design`
 - Bower : `bower install bootstrap-material-design`
 
+Note: To install using Bower if you are using Bootstrap 3, add version 0.x : `bower install bootstrap-material-design#0.x` 
+
 If you prefer, you can include this framework in your project using our official CDN:
 
 - [Bootstrap Material Design on CDNJS.com](https://cdnjs.com/libraries/bootstrap-material-design)
